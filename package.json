@@ -1,0 +1,23 @@
+{
+  "name": "git-localdb",
+  "version": "0.1.0",
+  "description": "A localStorage db for js-git.",
+  "main": "localdb.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git://github.com/creationix/git-localdb.git"
+  },
+  "keywords": [
+    "js-git",
+    "localStorage",
+    "db"
+  ],
+  "author": "Tim Caswell <tim@creationix.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/creationix/git-localdb/issues"
+  }
+}
